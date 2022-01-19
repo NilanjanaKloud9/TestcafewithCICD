@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Chrome 97.0.4692.71 / Windows 10" tests="1" failures="0" skipped="0" errors="0" time="65.748" timestamp="Wed, 19 Jan 2022 07:43:27 GMT" >
+  <testcase classname="OrderProduct" name="Login to Amazon Test (screenshots: C:\Users\Nilanjana Das\Documents\TestcafewithCICD\PageObjectModel\screenshots)" time="65.716">
+  </testcase>
+  <system-out>
+  <![CDATA[
+    Warnings (1):
+    --
+      The "src" and "browsers" options from the configuration file will be ignored.
+  ]]>
+  </system-out>
+</testsuite>

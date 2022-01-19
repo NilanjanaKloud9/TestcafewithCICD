@@ -2,6 +2,7 @@
        "browsers": "chrome",
        "src":"C:/Users/Nilanjana Das/Documents/POMAmazon/tests/LogInTest.js",
        "reporter": {
+        "name": "xunit",
         "output": "reports/report.xml"
        },
        "screenshots":{
